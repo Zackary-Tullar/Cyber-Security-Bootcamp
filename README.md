@@ -23,3 +23,4 @@ WEEK-20 SIEMs-2
 WEEK-21 Digital-Forensics\
 WEEK-22 Project 3 (SIEMs-Windows-and-Apache-Logs)
 WEEk-23 Prep-Week (Final-Project)
+(Weeks 13-15-18-23 i ran into issues so the activities for those weeks wont be uploaded)
